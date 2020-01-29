@@ -1,7 +1,5 @@
 # Boxy-Crossy-Road
-Crossy Road game clone made in C# and Unity
+A clone of the popular Crossy Road game using Unity and C#.
 
 # Screenshots
 ![Gif demo](crossy_road_short_small.gif)
-
-![Gif demo](crossy_road_small.gif)
